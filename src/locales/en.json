@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "team": "Team",
+    "careers": "Careers",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "dashboard": "Dashboard",
+    "startProject": "Start Your Project"
+  },
+  "hero": {
+    "badge": "Innovative AI-Powered Digital Agency",
+    "title": "We Turn Ideas Into Digital Growth",
+    "subtitle": "We empower ambitious brands to innovate, scale, and dominate their markets through data-driven marketing, luxury brand design, and cutting-edge web engineering.",
+    "ctaPrimary": "Start Your Project",
+    "ctaSecondary": "Explore Our Work",
+    "statsClients": "Active Clients",
+    "statsGrowth": "Avg. Revenue Growth",
+    "statsAwards": "Design Awards"
+  },
+  "agencyIntro": {
+    "tag": "WHO WE ARE",
+    "title": "We Craft the Digital Future of Ambitious Brands",
+    "description": "Impact Digital Agency is your strategic partner for market dominance. We fuse high-end visual design, predictive analytics, and AI technology to build unforgettable experiences that convert.",
+    "feature1": "AI & Data-Driven Growth Strategies",
+    "feature2": "Award-Winning Luxury Brand Identity",
+    "feature3": "Conversion Rate Optimization & Scalable Funnels"
+  },
+  "services": {
+    "tag": "OUR SERVICES",
+    "title": "Comprehensive Digital Solutions for Rapid Scale",
+    "subtitle": "We offer a complete suite of digital services designed for high-growth startups and enterprise leaders.",
+    "viewAll": "View All Services",
+    "benefits": "Key Benefits:",
+    "getStarted": "Request Service"
+  },
+  "portfolio": {
+    "tag": "OUR PORTFOLIO",
+    "title": "Case Studies That Define Excellence",
+    "subtitle": "Explore how we helped our partners transform digitally and achieve unprecedented revenue records.",
+    "all": "All",
+    "branding": "Branding",
+    "marketing": "Digital Marketing",
+    "web": "Web Development",
+    "viewCaseStudy": "View Case Study",
+    "challenge": "The Challenge",
+    "solution": "Strategic Solution",
+    "results": "Key Results"
+  },
+  "caseStudy": {
+    "overview": "Project Overview",
+    "objectives": "Core Objectives",
+    "process": "Execution Methodology",
+    "technologies": "Technologies & Tools Used",
+    "deliverables": "Key Deliverables",
+    "metrics": "Performance Metrics (Before & After)",
+    "testimonial": "Client Testimonial",
+    "gallery": "Visual Showcase & Gallery"
+  },
+  "about": {
+    "tag": "THE IMPACT STORY",
+    "title": "Unbounded Creative Vision",
+    "storyTitle": "How We Started & What Drives Us",
+    "storyDesc": "Impact Agency was founded with a singular vision: to revolutionize digital marketing and luxury branding across regional and international markets. We believe every brand possesses a unique narrative that deserves to be told with maximum distinction.",
+    "missionTitle": "Our Mission",
+    "missionDesc": "To empower brands to scale and dominate digitally using state-of-the-art technology and inspiring design.",
+    "visionTitle": "Our Vision",
+    "visionDesc": "To be the premier creative agency of choice for companies seeking prestige and tangible commercial growth.",
+    "valuesTitle": "Our Core Values",
+    "timelineTitle": "Our Growth Journey",
+    "processTitle": "Our 5-Step Strategic Process"
+  },
+  "pricing": {
+    "tag": "PRICING PLANS",
+    "title": "Transparent Investments for Exponential ROI",
+    "subtitle": "Select the perfect plan tailored to your business scale and growth targets.",
+    "monthly": "Monthly",
+    "yearly": "Yearly (Save 20%)",
+    "popular": "Most Popular",
+    "choosePlan": "Choose Plan",
+    "compareTitle": "Detailed Feature Comparison",
+    "feature": "Feature",
+    "starter": "Starter Package",
+    "growth": "Growth Package",
+    "enterprise": "Enterprise Package"
+  },
+  "blog": {
+    "tag": "IMPACT INSIGHTS",
+    "title": "Latest Articles & Marketing Intelligence",
+    "subtitle": "Read expert insights on modern branding, AI marketing, SEO, and web engineering.",
+    "readTime": "min read",
+    "by": "By",
+    "relatedArticles": "Related Articles",
+    "backToBlog": "Back to Blog"
+  },
+  "team": {
+    "tag": "OUR TEAM",
+    "title": "The Creative Minds Behind Impact",
+    "subtitle": "A world-class team of strategists, designers, marketers, and developers.",
+    "experience": "Years Experience"
+  },
+  "careers": {
+    "tag": "JOIN OUR TEAM",
+    "title": "Build Your Career at Impact",
+    "subtitle": "We are always looking for passionate creators to join our high-octane team.",
+    "openPositions": "Open Positions",
+    "applyNow": "Apply Now",
+    "cultureTitle": "Our Work Culture",
+    "benefitsTitle": "Perks & Benefits"
+  },
+  "contact": {
+    "tag": "GET IN TOUCH",
+    "title": "Let's Build Something Extraordinary Together",
+    "subtitle": "Have a project in mind or want to consult with our experts? We are ready to help.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "company": "Company / Organization",
+    "budget": "Project Budget",
+    "service": "Service Required",
+    "message": "Project Details",
+    "submit": "Send Message",
+    "successMessage": "Your message has been sent successfully! Our team will contact you within 24 hours.",
+    "demoNotice": "Contact information below is provided for demonstration purposes only."
+  },
+  "faq": {
+    "tag": "FREQUENTLY ASKED QUESTIONS",
+    "title": "Everything You Need to Know",
+    "subtitle": "Clear, direct answers to common queries regarding our agency services."
+  },
+  "dashboard": {
+    "tag": "ENTERPRISE DEMO",
+    "title": "Impact Suite Enterprise Dashboard",
+    "subtitle": "Real-time analytics, campaign tracking, revenue monitoring, and KPI management for VIP clients.",
+    "totalRevenue": "Total Revenue",
+    "activeCampaigns": "Active Campaigns",
+    "newLeads": "New Qualified Leads",
+    "conversionRate": "Avg. Conversion Rate",
+    "revenueOverview": "Revenue & Campaign Analytics",
+    "recentActivities": "Executive Activity Stream",
+    "topClients": "VIP Enterprise Clients",
+    "status": "Status",
+    "spent": "Budget Spent",
+    "roi": "ROI Multiplier"
+  },
+  "footer": {
+    "desc": "A fictional digital agency providing branding, marketing, web development, SEO, advertising, and AI-powered digital solutions.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Core Services",
+    "newsletterTitle": "Newsletter",
+    "newsletterDesc": "Subscribe to receive our latest insights and growth strategies.",
+    "subscribe": "Subscribe",
+    "demoNote": "Demo project created for portfolio purposes.",
+    "rights": "All rights reserved. Impact Digital Agency © 2026."
+  }
+}
